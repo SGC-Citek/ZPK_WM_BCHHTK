@@ -1,0 +1,34 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Báo cáo tồn kho theo thuộc tính",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zwm07"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_C7654DE23EE94C1E4018DC7CFA2C67DADCD0C333_TM",
+    "semanticObject": "ZWMBCTKTTT",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_C7654DE23EE94C1E4018DC7CFA2C67DADCD0C333_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Báo cáo tồn kho theo thuộc tính",
+        "subtitle": "ZWM07"
+      }
+    }
+  ]
+}

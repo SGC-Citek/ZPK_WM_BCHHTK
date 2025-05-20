@@ -1,0 +1,7 @@
+@EndUserText.label: 'Service Binding BCTKTTT'
+define service ZUI_IM_BCTKTTT_O2 {
+  expose ZIM_BCTKTTT_MAIN;
+  expose zim_BCTKTTT_wh_sh;
+  expose ZWM_I_STORAGEBINCUBE_SH;
+  expose ZI_WM_BPYC_SH;
+}
